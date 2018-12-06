@@ -1,6 +1,4 @@
-
-
-
+les fichiers finaux sont affichage.asm, strcpy_2.asm, strncpy_2.asm et strtrn.asm
 
 compilation en 32 bits(PRIORITE)     
 
