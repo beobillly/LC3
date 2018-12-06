@@ -1,0 +1,11 @@
+.ORIG x3000
+
+	AND R0,R0,0
+	LEA R1,fun
+	JMP R1
+	ADD R0,R0,-5
+
+fun:	ADD R0,R0,8
+	NOP
+
+.END

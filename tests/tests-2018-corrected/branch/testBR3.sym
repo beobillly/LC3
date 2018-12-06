@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	fun1              3003
+//	fun2              3006
+//	fun3              3009
+//	fun4              300C
+//	fun5              300F
+//	cst1              3012
+//	cst2              3013
+//	fun6              3014
+//	NOP               3015
+
