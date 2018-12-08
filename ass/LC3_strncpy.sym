@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	TEST              3004
+//	INCR              300E
+//	END               3012
+//	SRC               3013
+//	i                 301A
+//	LIMIT             301B
+//	COPY              301C
+

@@ -9,3 +9,15 @@ si 64 bits supportée (ce qui n'est pas le cas de l'affichage):
 nasm -f elf64 affichage.asm ; ld -s affichage.o -o affichage
 
 execution : ./affichage
+
+
+******LC3******
+
+compilation:
+
+./lc3tools/lc3as ../ass/LC3_strtrn.asm 
+
+
+execution:
+
+./lc3tools/lc3sim-tk ../ass/LC3_strtrn.obj 
