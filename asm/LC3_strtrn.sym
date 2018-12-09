@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LOOP_D            0005
+//	DONE_D            000C
+//	LOOP              000D
+//	DONE              0014
+//	DEC               0015
+//	SRC               0016
+//	COPY              0022
+//	FIN               0042
+

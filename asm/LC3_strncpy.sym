@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	TEST              0004
+//	INCR              000E
+//	END               0012
+//	SRC               0013
+//	i                 001F
+//	LIMIT             0020
+//	COPY              0021
+

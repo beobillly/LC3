@@ -1,0 +1,9 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LOOP              0002
+//	DONE              0008
+//	SRC               000B
+//	DEST              0011
+
