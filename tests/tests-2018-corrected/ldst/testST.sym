@@ -1,9 +1,0 @@
-// Symbol table
-// Scope level 0:
-//	Symbol Name       Page Address
-//	----------------  ------------
-//	NOP               0004
-//	cons1             0004
-//	cons2             0005
-//	cons3             0006
-
