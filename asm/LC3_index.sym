@@ -2,9 +2,9 @@
 // Scope level 0:
 //	Symbol Name       Page Address
 //	----------------  ------------
-//	loop              3005
-//	suite             300A
-//	fini              300D
-//	chaine            300F
-//	caract            301B
+//	loop              0005
+//	suite             000A
+//	fini              000D
+//	chaine            000F
+//	caract            001B
 
